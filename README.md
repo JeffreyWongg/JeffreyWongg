@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I am Jeffrey Wong 👋
 
 - 🔭 I’m currently working on LockIn
 - 🌱 I’m currently learning Python, HTML, CSS, JavaScript
