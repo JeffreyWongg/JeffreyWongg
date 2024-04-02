@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jeffrey Wong</h1>
-- 🔭 I’m currently working on [LockIn](https://github.com/JeffreyWongg/chrome-extension-app-lockin)
+<ul>
+<list>- 🔭 I’m currently working on [LockIn](https://github.com/JeffreyWongg/chrome-extension-app-lockin)
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript, Python**
 
@@ -8,6 +9,7 @@
 - 📫 How to reach me **jeffrey.wong.businessmail@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1K3Fj7j-qfSPm-2kskeMxq9_34OMh4ehD/view?usp=sharing](https://drive.google.com/file/d/1K3Fj7j-qfSPm-2kskeMxq9_34OMh4ehD/view?usp=sharing)
+</ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
