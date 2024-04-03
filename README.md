@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Jeffrey Wong</h1>
-<h3 align="center">I am a grade 11 Canadian student with a passion in learning new technologies</h3>
+<h3 align="center">I am a grade 11 Canadian student with a passion for learning new technologies</h3>
 
-- 🔭 I’m currently working on: [LockIn](https://github.com/JeffreyWongg/chrome-extension-app-lockin/)
+- 🔭 I’m currently working on [LockIn](https://github.com/JeffreyWongg/chrome-extension-app-lockin/)
 
 - 🌱 I’m currently learning: **HTML, CSS, JavaScript, Python**
 
-- 👨‍💻 All of my projects are available at my [portfolio](https://jeffreywongg.github.io/html-css-js-portfolio/)
+- 👨‍💻 All of my projects are available in my [portfolio](https://jeffreywongg.github.io/html-css-js-portfolio/)
 
-- 📫 How to reach me: **jeffrey.wong.businessmail@gmail.com**
+- 📫 Feel free to reach out! **jeffrey.wong.businessmail@gmail.com**
 
 - 📄 Check out my experiences: [Resume](https://drive.google.com/file/d/1LvFdP5HM8et2E0P6cAnq01znCjOX1zvy/view?usp=sharing)
   
