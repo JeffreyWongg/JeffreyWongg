@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning: **HTML, CSS, JavaScript, Python**
 
-- 👨‍💻 All of my projects are available at: [https://jeffreywongg.github.io/html-css-js-portfolio/](https://jeffreywongg.github.io/html-css-js-portfolio/)
+- 👨‍💻 All of my projects are available at my [portfolio](https://jeffreywongg.github.io/html-css-js-portfolio/)
 
 - 📫 How to reach me: **jeffrey.wong.businessmail@gmail.com**
 
