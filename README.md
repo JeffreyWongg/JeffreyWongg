@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jeffrey Wong</h1>
+<h3>I am a grade 11 student with a passion in learning new technologies</h3>
 
 - 🔭 I’m currently working on: [LockIn](https://github.com/JeffreyWongg/chrome-extension-app-lockin/)
 
