@@ -8,7 +8,7 @@
 
 - 📫 How to reach me: **jeffrey.wong.businessmail@gmail.com**
 
-- 📄 Check out my experiences: [Resume](https://drive.google.com/file/d/1K3Fj7j-qfSPm-2kskeMxq9_34OMh4ehD/view?usp=sharing)
+- 📄 Check out my experiences: [Resume](https://drive.google.com/file/d/1z1LBRCG1uPfG4MoBF_Bx3FeMOr6NjKtU/view?usp=drive_link)
   
 
 <h3 align="left">Connect with me:</h3>
