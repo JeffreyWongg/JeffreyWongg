@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [LockIn](https://github.com/JeffreyWongg/chrome-extension-app-lockin/)
 
-- 🌱 I’m currently learning: **HTML, CSS, JavaScript, Python**
+- 🌱 I’m currently learning: **HTML, CSS, JavaScript**
 
 - 👨‍💻 All of my projects are available in my [portfolio](https://jeffreywongg.github.io/html-css-js-portfolio/)
 
