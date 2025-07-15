@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jeffrey Wong</h1>
 <h3 align="center">I'm an incoming Computer Engineering Student at the University of Toronto</h3>
 
-- 🔭 I’m currently working on [LockIn](https://github.com/JeffreyWongg/chrome-extension-app-lockin/)
-
 - 🌱 I’m currently learning: **HTML, CSS, JavaScript, Python**
 
 - 👨‍💻 All of my projects are available in my [portfolio](https://jeffreywong.vercel.app/)
