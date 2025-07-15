@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jeffrey Wong</h1>
 <h3 align="center">I'm an incoming Computer Engineering Student at the University of Toronto</h3>
 
-- 🌱 I’m currently learning: **HTML, CSS, JavaScript, Python**
-
 - 👨‍💻 All of my projects are available in my [portfolio](https://jeffreywong.vercel.app/)
 
-- 📫 Feel free to reach out! **jeffrey.wong.businessmail@gmail.com**
-
 - 📄 Check out my experiences: [Resume](https://drive.google.com/file/d/1LJkEqL9ZfHUe7XANmZ9ysku6pgZV31s9/view?usp=sharing)
+
+- 📫 Feel free to reach out! **jeffrey.wong.businessmail@gmail.com**
   
 
 <h3 align="left">Connect with me:</h3>
