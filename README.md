@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning: **HTML, CSS, JavaScript, Python**
 
-- 👨‍💻 All of my projects are available in my [portfolio](https://jeffreywongg.github.io/html-css-js-portfolio/)
+- 👨‍💻 All of my projects are available in my [portfolio](https://jeffreywong.vercel.app/)
 
 - 📫 Feel free to reach out! **jeffrey.wong.businessmail@gmail.com**
 
-- 📄 Check out my experiences: [Resume](https://drive.google.com/file/d/1LvFdP5HM8et2E0P6cAnq01znCjOX1zvy/view?usp=sharing)
+- 📄 Check out my experiences: [Resume](https://drive.google.com/file/d/1LJkEqL9ZfHUe7XANmZ9ysku6pgZV31s9/view?usp=sharing)
   
 
 <h3 align="left">Connect with me:</h3>
