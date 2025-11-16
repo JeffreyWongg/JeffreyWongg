@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jeffrey Wong</h1>
-<h3 align="center">I'm an incoming Computer Engineering Student at the University of Toronto</h3>
+<h3 align="center">I'm a Computer Engineering Student at the University of Toronto</h3>
 
 - 👨‍💻 All of my projects are available in my [portfolio](https://jeffreywong.vercel.app/)
 
