@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available in my [portfolio](https://jeffreywong.vercel.app/)
 
-- 📄 Check out my experiences: [Resume]([https://drive.google.com/file/d/1LJkEqL9ZfHUe7XANmZ9ysku6pgZV31s9/view?usp=sharing](https://drive.google.com/file/d/1Twa3GPScR6YrlSzcsM4L8QBluq6arvBf/view?usp=sharing))
+- 📄 Check out my experiences: [Resume](https://drive.google.com/file/d/1Twa3GPScR6YrlSzcsM4L8QBluq6arvBf/view?usp=sharing)
 
 - 📫 Feel free to reach out! **jeffrey.wong.businessmail@gmail.com**
   
