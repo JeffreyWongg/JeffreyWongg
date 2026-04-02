@@ -16,29 +16,16 @@
 │ > Sinatra   · AI-Powered DAW                 │
 │ > DroneAI   · ICUAS '26 (Review)             │
 │ > JAMHacks  · Canada's Largest HS HK         │
+│                                              │
+│ $ cat skills.cfg                             │
+│ > [lang]  Python · C++ · C · JS · TS        │
+│ >         C# · Ruby                          │
+│ > [web]   React · Next.js · Tailwind         │
+│ >         Three.js · FastAPI · Node.js       │
+│ > [tools] Git · Supabase · MongoDB           │
+│ >         OpenCV · ArcGIS · Arduino          │
 └──────────────────────────────────────────────┘
 </pre>
-
-![Python](https://img.shields.io/badge/PYTHON-00FF41?style=for-the-badge&labelColor=0d1117&color=00FF41)
-![C++](https://img.shields.io/badge/C++-00FF41?style=for-the-badge&labelColor=0d1117&color=00FF41)
-![C](https://img.shields.io/badge/C-00FF41?style=for-the-badge&labelColor=0d1117&color=00FF41)
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-00FF41?style=for-the-badge&labelColor=0d1117&color=00FF41)
-![TypeScript](https://img.shields.io/badge/TYPESCRIPT-00FF41?style=for-the-badge&labelColor=0d1117&color=00FF41)
-![C#](https://img.shields.io/badge/C%23-00FF41?style=for-the-badge&labelColor=0d1117&color=00FF41)
-![Ruby](https://img.shields.io/badge/RUBY-00FF41?style=for-the-badge&labelColor=0d1117&color=00FF41)
-![React](https://img.shields.io/badge/REACT-00D4FF?style=for-the-badge&labelColor=0d1117&color=00D4FF)
-![Next.js](https://img.shields.io/badge/NEXT.JS-00D4FF?style=for-the-badge&labelColor=0d1117&color=00D4FF)
-![Tailwind](https://img.shields.io/badge/TAILWIND-00D4FF?style=for-the-badge&labelColor=0d1117&color=00D4FF)
-![Three.js](https://img.shields.io/badge/THREE.JS-00D4FF?style=for-the-badge&labelColor=0d1117&color=00D4FF)
-![FastAPI](https://img.shields.io/badge/FASTAPI-00D4FF?style=for-the-badge&labelColor=0d1117&color=00D4FF)
-![Node.js](https://img.shields.io/badge/NODE.JS-00D4FF?style=for-the-badge&labelColor=0d1117&color=00D4FF)
-![Git](https://img.shields.io/badge/GIT-FFB800?style=for-the-badge&labelColor=0d1117&color=FFB800)
-![Supabase](https://img.shields.io/badge/SUPABASE-FFB800?style=for-the-badge&labelColor=0d1117&color=FFB800)
-![MongoDB](https://img.shields.io/badge/MONGODB-FFB800?style=for-the-badge&labelColor=0d1117&color=FFB800)
-![OpenCV](https://img.shields.io/badge/OPENCV-FFB800?style=for-the-badge&labelColor=0d1117&color=FFB800)
-![ArcGIS](https://img.shields.io/badge/ARCGIS-FFB800?style=for-the-badge&labelColor=0d1117&color=FFB800)
-![Arduino](https://img.shields.io/badge/ARDUINO-FFB800?style=for-the-badge&labelColor=0d1117&color=FFB800)
-
 </td>
 <td width="35%" align="center" valign="middle">
 <pre>
@@ -54,8 +41,6 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-00D4FF?style=for-the-badge&logo=linkedin&logoColor=0d1117)](https://www.linkedin.com/in/jeffrey-wong-bb1173261/)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-00FF41?style=for-the-badge&logo=vercel&logoColor=0d1117)](https://jeffreywong.vercel.app/)
-[![Email](https://img.shields.io/badge/EMAIL-FFB800?style=for-the-badge&logo=gmail&logoColor=0d1117)](mailto:jeffreyy.wong@mail.utoronto.ca)
+[⟶ linkedin.com/in/jeffrey-wong](https://www.linkedin.com/in/jeffrey-wong-bb1173261/) &nbsp;·&nbsp; [⟶ jeffreywong.vercel.app](https://jeffreywong.vercel.app/) &nbsp;·&nbsp; [⟶ jeffreyy.wong@mail.utoronto.ca](mailto:jeffreyy.wong@mail.utoronto.ca)
 
 </div>
