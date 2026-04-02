@@ -1,4 +1,50 @@
 <div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00FF41&center=true&vCenter=true&width=750&lines=%24+whoami+%E2%86%92+jeffrey_wong;Computer+Engineering+%40+University+of+Toronto;Perception+%7C+AI+%7C+Full-Stack;%24+ssh+jeffrey%40uoft.ca+_" />
+</div>
+
+<br/>
+
+<table align="center" border="0">
+<tr>
+<td width="45%" align="center" valign="middle">
+
+<!-- ▼ Replace <pre> block with your photo: ▼          -->
+<!-- <img src="YOUR_PHOTO_URL" width="200"/>            -->
+<pre>
+     ██╗ ██╗    ██╗
+     ██║ ██║    ██║
+     ██║ ██║ █╗ ██║
+██   ██║ ██║███╗██║
+╚█████╔╝ ╚███╔███╔╝
+ ╚════╝   ╚══╝╚══╝
+</pre>
+
+</td>
+<td width="55%" valign="middle">
+<pre>
+┌─────────────────────────────────┐
+│  $ whoami                       │
+│  > jeffrey_wong                 │
+│                                 │
+│  $ cat about.txt                │
+│  > CompEng @ UofT (2025–2030)   │
+│  > Perception Recruit @ UTFR    │
+│  > Research Intern @ OntarioTch │
+│                                 │
+│  $ ls projects/                 │
+│  > Polymolt   · AI Pred Market  │
+│  > Sinatra    · AI-Powered DAW  │
+│  > DroneAI    · ICUAS '26 🔬    │
+│  > JAMHacks   · 200+ attendees  │
+└─────────────────────────────────┘
+</pre>
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
 <pre>
 ╔══════════════════════════════════════════════════════════════╗
 ║  $ cat skills.cfg                                            ║
