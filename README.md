@@ -33,38 +33,34 @@
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-00FF41?style=flat-square&labelColor=0d1117)
-![C++](https://img.shields.io/badge/C++-00FF41?style=flat-square&labelColor=0d1117)
-![C](https://img.shields.io/badge/C-00FF41?style=flat-square&labelColor=0d1117)
-![JavaScript](https://img.shields.io/badge/JavaScript-00FF41?style=flat-square&labelColor=0d1117)
-![TypeScript](https://img.shields.io/badge/TypeScript-00FF41?style=flat-square&labelColor=0d1117)
-![C#](https://img.shields.io/badge/C%23-00FF41?style=flat-square&labelColor=0d1117)
-![Ruby](https://img.shields.io/badge/Ruby-00FF41?style=flat-square&labelColor=0d1117)
+![Python](https://img.shields.io/badge/PYTHON-00FF41?style=for-the-badge&labelColor=0d1117&color=00FF41)
+![C++](https://img.shields.io/badge/C++-00FF41?style=for-the-badge&labelColor=0d1117&color=00FF41)
+![C](https://img.shields.io/badge/C-00FF41?style=for-the-badge&labelColor=0d1117&color=00FF41)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-00FF41?style=for-the-badge&labelColor=0d1117&color=00FF41)
+![TypeScript](https://img.shields.io/badge/TYPESCRIPT-00FF41?style=for-the-badge&labelColor=0d1117&color=00FF41)
+![C#](https://img.shields.io/badge/C%23-00FF41?style=for-the-badge&labelColor=0d1117&color=00FF41)
+![Ruby](https://img.shields.io/badge/RUBY-00FF41?style=for-the-badge&labelColor=0d1117&color=00FF41)
 
-![React](https://img.shields.io/badge/React-00D4FF?style=flat-square&labelColor=0d1117)
-![Next.js](https://img.shields.io/badge/Next.js-00D4FF?style=flat-square&labelColor=0d1117)
-![Tailwind](https://img.shields.io/badge/Tailwind-00D4FF?style=flat-square&labelColor=0d1117)
-![Three.js](https://img.shields.io/badge/Three.js-00D4FF?style=flat-square&labelColor=0d1117)
-![FastAPI](https://img.shields.io/badge/FastAPI-00D4FF?style=flat-square&labelColor=0d1117)
-![Node.js](https://img.shields.io/badge/Node.js-00D4FF?style=flat-square&labelColor=0d1117)
+![React](https://img.shields.io/badge/REACT-00D4FF?style=for-the-badge&labelColor=0d1117&color=00D4FF)
+![Next.js](https://img.shields.io/badge/NEXT.JS-00D4FF?style=for-the-badge&labelColor=0d1117&color=00D4FF)
+![Tailwind](https://img.shields.io/badge/TAILWIND-00D4FF?style=for-the-badge&labelColor=0d1117&color=00D4FF)
+![Three.js](https://img.shields.io/badge/THREE.JS-00D4FF?style=for-the-badge&labelColor=0d1117&color=00D4FF)
+![FastAPI](https://img.shields.io/badge/FASTAPI-00D4FF?style=for-the-badge&labelColor=0d1117&color=00D4FF)
+![Node.js](https://img.shields.io/badge/NODE.JS-00D4FF?style=for-the-badge&labelColor=0d1117&color=00D4FF)
 
-![Git](https://img.shields.io/badge/Git-FFB800?style=flat-square&labelColor=0d1117)
-![Supabase](https://img.shields.io/badge/Supabase-FFB800?style=flat-square&labelColor=0d1117)
-![MongoDB](https://img.shields.io/badge/MongoDB-FFB800?style=flat-square&labelColor=0d1117)
-![OpenCV](https://img.shields.io/badge/OpenCV-FFB800?style=flat-square&labelColor=0d1117)
-![ArcGIS](https://img.shields.io/badge/ArcGIS-FFB800?style=flat-square&labelColor=0d1117)
-![Arduino](https://img.shields.io/badge/Arduino-FFB800?style=flat-square&labelColor=0d1117)
+![Git](https://img.shields.io/badge/GIT-FFB800?style=for-the-badge&labelColor=0d1117&color=FFB800)
+![Supabase](https://img.shields.io/badge/SUPABASE-FFB800?style=for-the-badge&labelColor=0d1117&color=FFB800)
+![MongoDB](https://img.shields.io/badge/MONGODB-FFB800?style=for-the-badge&labelColor=0d1117&color=FFB800)
+![OpenCV](https://img.shields.io/badge/OPENCV-FFB800?style=for-the-badge&labelColor=0d1117&color=FFB800)
+![ArcGIS](https://img.shields.io/badge/ARCGIS-FFB800?style=for-the-badge&labelColor=0d1117&color=FFB800)
+![Arduino](https://img.shields.io/badge/ARDUINO-FFB800?style=for-the-badge&labelColor=0d1117&color=FFB800)
 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00D4FF&text_color=c9d1d9&hide=stars&rank_icon=github" />
-</div>
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=00D4FF)](https://www.linkedin.com/in/jeffrey-wong-bb1173261/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=flat-square&logo=vercel&logoColor=00FF41)](https://jeffreywong.vercel.app/)
-[![Email](https://img.shields.io/badge/jeffreyy.wong@mail.utoronto.ca-0d1117?style=flat-square&logo=gmail&logoColor=FFB800)](mailto:jeffreyy.wong@mail.utoronto.ca)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-00D4FF?style=for-the-badge&logo=linkedin&logoColor=0d1117)](https://www.linkedin.com/in/jeffrey-wong-bb1173261/)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-00FF41?style=for-the-badge&logo=vercel&logoColor=0d1117)](https://jeffreywong.vercel.app/)
+[![Email](https://img.shields.io/badge/EMAIL-FFB800?style=for-the-badge&logo=gmail&logoColor=0d1117)](mailto:jeffreyy.wong@mail.utoronto.ca)
 
 </div>
