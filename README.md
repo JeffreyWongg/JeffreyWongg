@@ -18,7 +18,7 @@
 │ > JAMHacks  · Canada's Largest HS HK         │
 │                                              │
 │ $ cat skills.cfg                             │
-│ > [lang]  Python · C++ · C · JS · TS        │
+│ > [lang]  Python · C++ · C · JS · TS         │
 │ >         C# · Ruby                          │
 │ > [web]   React · Next.js · Tailwind         │
 │ >         Three.js · FastAPI · Node.js       │
