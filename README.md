@@ -5,25 +5,23 @@
 <table align="center" border="0" width="100%"><tr>
 <td width="68%" valign="top">
 <pre>
-┌─────────────────────────────────────────────────────────┐
-│ $ cat about.txt                                         │
-│ > ece @ uoft                                            │
-│ > i like to build, hoop, and work out                   │
-│ > seeking summer 2026 internships                       │
-│                                                         │
-│ $ ls projects/                                          │
-│ > Polymolt  · AI Prediction Market                      │
-│ > Sinatra   · AI-Powered DAW                            │
-│ > DroneAI   · ICUAS '26 (Review)                        │
-│ > JAMHacks  · Canada's Largest HS HK                    │
-│                                                         │
-│ $ cat skills.cfg                                        │
-│ > [lang]  Python · C++ · C · JS · TS · C# · Ruby        │
-│ > [web]   React · Next.js · Tailwind                    │
-│ >         Three.js · FastAPI · Node.js                  │
-│ > [tools] Git · Supabase · MongoDB                      │
-│ >         OpenCV · ArcGIS · Arduino                     │
-└─────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────────────┐
+│ $ cat about.txt                                                      │
+│ > ece @ uoft                                                         │
+│ > i like to build, hoop, and work out                                │
+│ > seeking summer 2026 internships                                    │
+│                                                                      │
+│ $ ls projects/                                                       │
+│ > Polymolt  · AI Prediction Market                                   │
+│ > Sinatra   · AI-Powered DAW                                         │
+│ > DroneAI   · ICUAS '26 (Review)                                     │
+│ > JAMHacks  · Canada's Largest HS HK                                 │
+│                                                                      │
+│ $ cat skills.cfg                                                     │
+│ > [lang]  Python · C++ · C · JS · TS · C# · Ruby                     │
+│ > [web]   React · Next.js · Tailwind · Three.js · FastAPI · Node.js  │
+│ > [tools] Git · Supabase · MongoDB · OpenCV · ArcGIS · Arduino       │
+└──────────────────────────────────────────────────────────────────────┘
 </pre>
 </td>
 <td width="32%" align="center" valign="middle">
