@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=%24+whoami+%E2%86%92+jeffrey_wong;CompEng+%40+UofT+%7C+AI+%7C+Perception+%7C+Full-Stack;%24+_" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=2000&color=00FF41&center=true&vCenter=true&width=700&lines=hi%2C+i'm+jeffrey+wong+%F0%9F%91%8B" />
 </div>
 
 <table align="center" border="0" width="95%"><tr>
