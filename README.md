@@ -10,12 +10,13 @@
 │ > ece @ uoft                                                         │
 │ > i like to build, hoop, and work out                                │
 │ > seeking summer 2026 internships                                    │
+│ > 2x hackathon winner                                                │
 │                                                                      │
 │ $ ls projects/                                                       │
 │ > Polymolt  · AI Prediction Market                                   │
 │ > Sinatra   · AI-Powered DAW                                         │
 │ > DroneAI   · ICUAS '26 (Review)                                     │
-│ > JAMHacks  · Canada's Largest HS HK                                 │
+│ > JAMHacks  · Canada's Largest high school hackathon                 │
 │                                                                      │
 │ $ cat skills.cfg                                                     │
 │ > [lang]  Python · C++ · C · JS · TS · C# · Ruby                     │
