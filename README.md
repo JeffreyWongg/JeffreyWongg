@@ -16,10 +16,10 @@
 │ > Polymolt  · AI Prediction Market                                   │
 │ > Sinatra   · AI-Powered DAW                                         │
 │ > DroneAI   · ICUAS '26 (Review)                                     │
-│ > JAMHacks  · Canada's Largest high school hackathon                 │
+│ > JAMHacks  · Canada's Largest High School Hackathon                 │
 │                                                                      │
 │ $ cat skills.cfg                                                     │
-│ > [lang]  Python · C++ · C · JS · TS · C# · Ruby                     │
+│ > [lang]  Python · C++ · C · JS · TS · C# · Ruby                    │
 │ > [web]   React · Next.js · Tailwind · Three.js · FastAPI · Node.js  │
 │ > [tools] Git · Supabase · MongoDB · OpenCV · ArcGIS · Arduino       │
 └──────────────────────────────────────────────────────────────────────┘
@@ -33,14 +33,17 @@
 ██   ██║ ██║███╗██║
 ╚█████╔╝ ╚███╔███╔╝
  ╚════╝   ╚══╝╚══╝
-     
-![coleman ronnie GIF](https://github.com/user-attachments/assets/548a9c6b-c2de-4c99-b757-a6ddab5e4a4c)
 </pre>
+
+![coleman ronnie GIF](https://github.com/user-attachments/assets/548a9c6b-c2de-4c99-b757-a6ddab5e4a4c)
 </td>
 </tr></table>
 
 <div align="center">
 
-[⟶ linkedin.com/in/jeffrey-wong](https://www.linkedin.com/in/jeffrey-wong-bb1173261/) &nbsp;·&nbsp; [⟶ jeffreywong.vercel.app](https://jeffreywong.vercel.app/) &nbsp;·&nbsp; [⟶ jeffreyy.wong@mail.utoronto.ca](mailto:jeffreyy.wong@mail.utoronto.ca)
+[⟶ linkedin](https://www.linkedin.com/in/jeffrey-wong-bb1173261/) &nbsp;·&nbsp;
+[⟶ portfolio](https://jeffreywong.vercel.app/) &nbsp;·&nbsp;
+[⟶ resume](https://drive.google.com/file/d/1sHMqvEoouOLM8mQ4D6uzzcHbe494eq8T/view?usp=sharing) &nbsp;·&nbsp;
+[⟶ email](mailto:jeffreyy.wong@mail.utoronto.ca)
 
 </div>
