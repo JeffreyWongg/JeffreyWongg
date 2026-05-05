@@ -19,7 +19,7 @@
 │ > JAMHacks  · Canada's Largest High School Hackathon                 │
 │                                                                      │
 │ $ cat skills.cfg                                                     │
-│ > [lang]  Python · C++ · C · JS · TS · C# · Ruby                    │
+│ > [lang]  Python · C++ · C · JS · TS · C# · Ruby                     │
 │ > [web]   React · Next.js · Tailwind · Three.js · FastAPI · Node.js  │
 │ > [tools] Git · Supabase · MongoDB · OpenCV · ArcGIS · Arduino       │
 └──────────────────────────────────────────────────────────────────────┘
